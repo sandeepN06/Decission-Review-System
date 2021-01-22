@@ -1,4 +1,4 @@
-# Decission-Review-System
+# Decision-Review-System
 
 This is a DECISSION REVIEW SYSTEM gui where you can import your local vedio and check with the buttons below (Fast forward or slow) . Control and Decission is in your hands ;)
 
